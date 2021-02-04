@@ -1,0 +1,13 @@
+C:\Users\faggi\OneDrive\Desktop\Prova\MagazzinoProdotti\MagazzinoProdotti\obj\Debug\netcoreapp3.1\MagazzinoProdotti.csprojAssemblyReference.cache
+C:\Users\faggi\OneDrive\Desktop\Prova\MagazzinoProdotti\MagazzinoProdotti\obj\Debug\netcoreapp3.1\MagazzinoProdotti.AssemblyInfoInputs.cache
+C:\Users\faggi\OneDrive\Desktop\Prova\MagazzinoProdotti\MagazzinoProdotti\obj\Debug\netcoreapp3.1\MagazzinoProdotti.AssemblyInfo.cs
+C:\Users\faggi\OneDrive\Desktop\Prova\MagazzinoProdotti\MagazzinoProdotti\obj\Debug\netcoreapp3.1\MagazzinoProdotti.csproj.CoreCompileInputs.cache
+C:\Users\faggi\OneDrive\Desktop\Prova\MagazzinoProdotti\MagazzinoProdotti\bin\Debug\netcoreapp3.1\MagazzinoProdotti.exe
+C:\Users\faggi\OneDrive\Desktop\Prova\MagazzinoProdotti\MagazzinoProdotti\bin\Debug\netcoreapp3.1\MagazzinoProdotti.deps.json
+C:\Users\faggi\OneDrive\Desktop\Prova\MagazzinoProdotti\MagazzinoProdotti\bin\Debug\netcoreapp3.1\MagazzinoProdotti.runtimeconfig.json
+C:\Users\faggi\OneDrive\Desktop\Prova\MagazzinoProdotti\MagazzinoProdotti\bin\Debug\netcoreapp3.1\MagazzinoProdotti.runtimeconfig.dev.json
+C:\Users\faggi\OneDrive\Desktop\Prova\MagazzinoProdotti\MagazzinoProdotti\bin\Debug\netcoreapp3.1\MagazzinoProdotti.dll
+C:\Users\faggi\OneDrive\Desktop\Prova\MagazzinoProdotti\MagazzinoProdotti\bin\Debug\netcoreapp3.1\MagazzinoProdotti.pdb
+C:\Users\faggi\OneDrive\Desktop\Prova\MagazzinoProdotti\MagazzinoProdotti\obj\Debug\netcoreapp3.1\MagazzinoProdotti.dll
+C:\Users\faggi\OneDrive\Desktop\Prova\MagazzinoProdotti\MagazzinoProdotti\obj\Debug\netcoreapp3.1\MagazzinoProdotti.pdb
+C:\Users\faggi\OneDrive\Desktop\Prova\MagazzinoProdotti\MagazzinoProdotti\obj\Debug\netcoreapp3.1\MagazzinoProdotti.genruntimeconfig.cache
