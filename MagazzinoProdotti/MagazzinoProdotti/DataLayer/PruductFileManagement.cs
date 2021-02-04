@@ -9,7 +9,7 @@ namespace MagazzinoProdotti.DataLayer
 {
     public class PruductFileManagement
     {
-        public static string path { get; } = "C:\\Users\\faggi\\OneDrive\\Desktop\\Prova\\Prodotti.csv";
+        public static string path { get; } = "C:\\Users\\faggi\\OneDrive\\Desktop\\EdoProva\\Prodotti.csv";
         // Recupera lista prodotti
         public static Prodotto[] GetAllProducts()
         {

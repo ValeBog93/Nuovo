@@ -23,6 +23,8 @@ namespace MagazzinoProdotti
             Console.WriteLine("Prezzo totale carello: {0}", PrezzoTot);
             Console.WriteLine("Quantità dei prodotti in carello: {0}", QuantitaOgetti);
             Console.WriteLine("Tutte le descrizioni sono: {0}", TutteDesc);
+            Console.WriteLine("Tutte le descrizioni sono: {0}", TutteDesc);
+            Console.WriteLine("Tutte le descrizioni sono: {0}", TutteDesc);
         }
     }
 }

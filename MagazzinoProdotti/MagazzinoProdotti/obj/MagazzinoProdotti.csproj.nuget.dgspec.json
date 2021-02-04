@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\faggi\\OneDrive\\Desktop\\Prova\\MagazzinoProdotti\\MagazzinoProdotti\\MagazzinoProdotti.csproj": {}
+    "C:\\Users\\faggi\\OneDrive\\Desktop\\EdoProva\\MagazzinoProdotti\\MagazzinoProdotti\\MagazzinoProdotti.csproj": {}
   },
   "projects": {
-    "C:\\Users\\faggi\\OneDrive\\Desktop\\Prova\\MagazzinoProdotti\\MagazzinoProdotti\\MagazzinoProdotti.csproj": {
+    "C:\\Users\\faggi\\OneDrive\\Desktop\\EdoProva\\MagazzinoProdotti\\MagazzinoProdotti\\MagazzinoProdotti.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\faggi\\OneDrive\\Desktop\\Prova\\MagazzinoProdotti\\MagazzinoProdotti\\MagazzinoProdotti.csproj",
+        "projectUniqueName": "C:\\Users\\faggi\\OneDrive\\Desktop\\EdoProva\\MagazzinoProdotti\\MagazzinoProdotti\\MagazzinoProdotti.csproj",
         "projectName": "MagazzinoProdotti",
-        "projectPath": "C:\\Users\\faggi\\OneDrive\\Desktop\\Prova\\MagazzinoProdotti\\MagazzinoProdotti\\MagazzinoProdotti.csproj",
+        "projectPath": "C:\\Users\\faggi\\OneDrive\\Desktop\\EdoProva\\MagazzinoProdotti\\MagazzinoProdotti\\MagazzinoProdotti.csproj",
         "packagesPath": "C:\\Users\\faggi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\faggi\\OneDrive\\Desktop\\Prova\\MagazzinoProdotti\\MagazzinoProdotti\\obj\\",
+        "outputPath": "C:\\Users\\faggi\\OneDrive\\Desktop\\EdoProva\\MagazzinoProdotti\\MagazzinoProdotti\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
